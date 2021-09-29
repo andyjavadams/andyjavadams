@@ -46,7 +46,7 @@ ___
 
 ### [`👇Social media👇`](https://wa.me/6285795431803?text=assalamu'alaikum+bang)
 
- [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andy.official08_)
+ [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andyjavadams)
 
  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285795431803)
 
