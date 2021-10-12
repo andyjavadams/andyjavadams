@@ -79,7 +79,7 @@ ___
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyjavadams&count_private=true&show_icons=true&theme=tokyonight)
     
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=andyjavadams&repo=andyjavadams.github.io&theme=tokyonight)](https://github.com/andyjavadams/andyjavadams.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=andyjavadams&repo=my-profile.github.io&theme=tokyonight)](https://github.com/andyjavadams/andyjavadams.github.io)
 
 # Special Thanks To
 
