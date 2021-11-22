@@ -6,7 +6,7 @@ You Visitors To:
 ![](https://komarev.com/ghpvc/?username=andyjavadams&label=PROFILE+VIEWS)
 
 
-![My Card ](https://cardivo.vercel.app/api?name=andyjavadams%20&description=Jika%20ada%20seseorang%20yang%20menghinamu%20dan%20mempermalukanmu%20dengan%20sesuatu%20yang%20ia%20ketahui%20ada%20padamu,%20maka%20janganlah%20engkau%20membalasnya%20dengan%20sesuatu%20yang%20engkau%20ketahui%20ada%20padanya.%20Akibat%20buruk%20biarlah%20ia%20yang%20menanggungnya.”%20(%20HR.%20Abu%20Daud%20no.%204084%20)&image=https://b.top4top.io/p_2090f6xvx0.jpg&backgroundColor=%23ecf0f1&instagram=@andy.official08_&github=andyjavadams&whatsapp=+6285795431803&pattern=leaf&colorPattern=%23eaeaea)
+![My Card ](https://cardivo.vercel.app/api?name=andyjavadams%20&description=Jika%20ada%20seseorang%20yang%20menghinamu%20dan%20mempermalukanmu%20dengan%20sesuatu%20yang%20ia%20ketahui%20ada%20padamu,%20maka%20janganlah%20engkau%20membalasnya%20dengan%20sesuatu%20yang%20engkau%20ketahui%20ada%20padanya.%20Akibat%20buruk%20biarlah%20ia%20yang%20menanggungnya.”%20(%20HR.%20Abu%20Daud%20no.%204084%20)&image=https://b.top4top.io/p_2090f6xvx0.jpg&backgroundColor=%23ecf0f1&instagram=@_andy.offc&github=andyjavadams&whatsapp=+6285795431803&pattern=leaf&colorPattern=%23eaeaea)
 
 ___
 
