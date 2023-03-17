@@ -1,4 +1,4 @@
-<h1 align="center">Welkom Bang Di Github andyjavadams<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="Hamlo"><br></h1>
+<h1 align="center">Hai aku andyjavadams! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="Hamlo"><br></h1>
 
 ```
 You Visitors To:
@@ -6,7 +6,7 @@ You Visitors To:
 ![](https://komarev.com/ghpvc/?username=andyjavadams&label=PROFILE+VIEWS)
 
 
-![My Card ](https://cardivo.vercel.app/api?name=andyjavadams%20&description=Jika%20ada%20seseorang%20yang%20menghinamu%20dan%20mempermalukanmu%20dengan%20sesuatu%20yang%20ia%20ketahui%20ada%20padamu,%20maka%20janganlah%20engkau%20membalasnya%20dengan%20sesuatu%20yang%20engkau%20ketahui%20ada%20padanya.%20Akibat%20buruk%20biarlah%20ia%20yang%20menanggungnya.”%20(%20HR.%20Abu%20Daud%20no.%204084%20)&image=https://b.top4top.io/p_2090f6xvx0.jpg&backgroundColor=%23ecf0f1&instagram=@_andy.offc&github=andyjavadams&whatsapp=+6285795431803&pattern=leaf&colorPattern=%23eaeaea)
+![My Card ](https://cardivo.vercel.app/api?name=andyjavadams%20&description=Jika%20ada%20seseorang%20yang%20menghinamu%20dan%20mempermalukanmu%20dengan%20sesuatu%20yang%20ia%20ketahui%20ada%20padamu,%20maka%20janganlah%20engkau%20membalasnya%20dengan%20sesuatu%20yang%20engkau%20ketahui%20ada%20padanya.%20Akibat%20buruk%20biarlah%20ia%20yang%20menanggungnya.”%20(%20HR.%20Abu%20Daud%20no.%204084%20)&image=https://b.top4top.io/p_2090f6xvx0.jpg&backgroundColor=%23ecf0f1&instagram=@andy.jees&github=andyjavadams&pattern=leaf&colorPattern=%23eaeaea)
 
 ___
 
@@ -20,7 +20,7 @@ ___
 
 ___
 
-### [`👇INTRO MY SELF👇`](https://wa.me/6285795431803?text=assalamu'alaikum+bang)
+### [`👇INTRO MY SELF👇`](https://instagram.com/andyjavadams)
 
 ```
 
@@ -32,7 +32,7 @@ Intro = {
 
 "Address": "Bandung, Jawa Barat, Indonesia",
 
-"Age": "14 Years Old",
+"Age": "15 Years Old",
 
 "Birthday": " - Januari 2008"
 
@@ -44,13 +44,14 @@ ___
 
 
 
-### [`👇Social media👇`](https://wa.me/6285795431803?text=assalamu'alaikum+bang)
+### [`👇Social media👇`](https://github.com/andyjavadams)
 
  [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andyjavadams)
 
- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285795431803)
+ [![Facebook](https://img.shields.io/badge/facebook-097EEB?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100075547466629&mibextid=ZbWKwL)
 
- [![Telegram](https://img.shields.io/badge/Telegram-009bff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andyjavadams)
+ [![Discord](https://img.shields.io/badge/discord-5265F7?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/913678045523623937)
+
 
 ___
 ___
@@ -78,13 +79,11 @@ ___
 
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyjavadams&count_private=true&show_icons=true&theme=tokyonight)
-    
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=andyjavadams&repo=andyjavadams.github.io&theme=tokyonight)](https://github.com/andyjavadams/andyjavadams.github.io)
 
 # Special Thanks To
 
-* [`Saya Sendiri`](https://github.com/andyjavadams)
-* [`ANTI-BOT`](https://github.com/Ghost19-ui)
+* [`andyjavadams`](https://github.com/andyjavadams)
+* [`ANTI-BOT`](https://github.com/findme-19)
 * [`Din-zUgex95`](https://github.com/Din-zUgex95)
 * [`Ariffb`](https://github.com/ariffb25)
 * [`Hans`](https://github.com/Hansuan010101)
