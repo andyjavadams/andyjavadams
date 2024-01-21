@@ -28,11 +28,11 @@ Intro = {
 
 "Name": "Andy Javadam S",
 
-"Status": "Junior High School PGRI 7 BANDUNG",
+"Status": "Senior High School PGRI 2 BANDUNG",
 
 "Address": "Bandung, Jawa Barat, Indonesia",
 
-"Age": "15 Years Old",
+"Age": "16 Years Old",
 
 "Birthday": " - Januari 2008"
 
